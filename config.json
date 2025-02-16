@@ -1,6 +1,16 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"Rukaii",
+    "subTitle":"Rukaii's Blog",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"02/16/2025",
+    "onePageListNum":15,
+    "needComment":1,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "UTC":8,
+    "i18n":"CN",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind"
 }
